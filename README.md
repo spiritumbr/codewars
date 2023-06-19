@@ -1,2 +1,2 @@
 # codewars
-Contains most codewars.com challenges completed by me
+Contains most codewars.com challenges that I completed.
